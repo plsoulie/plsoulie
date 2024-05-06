@@ -10,8 +10,15 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,vite,gatsby,flutter,firebase,py,matlab,git,figma,vscode,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,vite,gatsby,flutter,py,matlab,git)](https://skillicons.dev)
 
+### Tools
+
+[![My Skills](https://skillicons.dev/icons?i=firebase,figma,vscode,wordpress)](https://skillicons.dev)
+
+### Stats
+
+https://github-readme-streak-stats.herokuapp.com/?user=plsoulie
 <!---
 plsoulie/plsoulie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
