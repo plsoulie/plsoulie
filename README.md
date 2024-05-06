@@ -8,13 +8,19 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I master more spoken languages than programming languages!
 
+---
+
 ### 💻 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,vite,gatsby,flutter,c++,py,matlab,git)](https://skillicons.dev)
 
+---
+
 ### 🛠️ Tools
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,firebase,figma,vscode,wordpress)](https://skillicons.dev)
+
+---
 
 ### :fire: Stats
 
