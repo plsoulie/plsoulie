@@ -1,3 +1,5 @@
+### About Me
+
 - 👋 Hi, I’m Pierre-Louis!
 - 👀 I’m passionate about creating both hardware and software products. An engineer with extensive design knowledge, I'm always on the lookout for new inspiring collaborations!
 - 🌱 I’m currently learning full-stack javascript development
@@ -6,7 +8,9 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I master more spoken languages than programming languages!
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,gatsby,flutter,firebase,py,matlab,figma)](https://skillicons.dev)
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,vite,gatsby,flutter,firebase,py,matlab,git,figma,vscode,wordpress)](https://skillicons.dev)
 
 <!---
 plsoulie/plsoulie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
