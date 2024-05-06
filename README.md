@@ -1,4 +1,4 @@
-### About Me
+### 🦸 About Me
 
 - 👋 Hi, I’m Pierre-Louis!
 - 👀 I’m passionate about creating both hardware and software products. An engineer with extensive design knowledge, I'm always on the lookout for new inspiring collaborations!
@@ -8,17 +8,17 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I master more spoken languages than programming languages!
 
-### Skills
+### 💻 Skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,mongodb,express,react,nodejs,vite,gatsby,flutter,py,matlab,git)](https://skillicons.dev)
 
-### Tools
+### 🛠️ Tools
 
 [![My Skills](https://skillicons.dev/icons?i=firebase,figma,vscode,wordpress)](https://skillicons.dev)
 
-### Stats
+### :fire: Stats
 
-https://github-readme-streak-stats.herokuapp.com/?user=plsoulie
+[![GitHub Streak](https://streak-stats.demolab.com?user=plsoulie&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <!---
 plsoulie/plsoulie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
