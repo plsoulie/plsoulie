@@ -18,7 +18,7 @@
 
 ### 🛠️  Tools
 
-[![My Skills](https://skillicons.dev/icons?i=arduino,expo,firebase,figma,vscode,wordpress,photoshop,illustrator)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,firebase,figma,vscode,wordpress,photoshop,illustrator)](https://skillicons.dev)
 
 ---
 
