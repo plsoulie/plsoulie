@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Pierre-Louis!
 - 👀 I’m passionate about creating both hardware and software products. An engineer with extensive design knowledge, I'm always on the lookout for new inspiring collaborations!
-- 🌱 I’m currently learning full-stack JavaScript development
+- 🌱 I’m currently learning full-stack JavaScript development and Flutter
 - 💞️ I’m looking to collaborate on any new product idea from the smartest to the dumbest ....
 - 📫 How to reach me --> https://plsoulie.xyz
 - 😄 Pronouns: he/him
