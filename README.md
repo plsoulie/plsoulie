@@ -6,7 +6,6 @@
 - 💞️ I’m looking to collaborate on any new product idea from the smartest to the dumbest ....
 - 📫 How to reach me --> https://plsoulie.xyz
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I lived in 7 countries!
 
 ---
 
